@@ -51,3 +51,6 @@ If you want you can also follow the steps given on Kaggle: https://www.kaggle.co
 
 To replicate the demo app, just ensure you have the libraries mentioned and you are good to go.
 
+## Other Resources
+
+The trained models, saved as pickle files and the embeddings of each model saved as csv files are stored here: https://drive.google.com/drive/folders/1snw_jtIqYuJW69GW34GSpqM7YnU7cfON?usp=sharing
