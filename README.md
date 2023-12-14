@@ -54,3 +54,7 @@ To replicate the demo app, just ensure you have the libraries mentioned and you 
 ## Other Resources
 
 The trained models, saved as pickle files and the embeddings of each model saved as csv files are stored here: https://drive.google.com/drive/folders/1snw_jtIqYuJW69GW34GSpqM7YnU7cfON?usp=sharing
+
+## Demo App Code
+
+The demo App can be found here: https://drive.google.com/drive/folders/1l4UgzQp1DPBp2SOFUuCEjbdU_ptnJl8V?usp=sharing
