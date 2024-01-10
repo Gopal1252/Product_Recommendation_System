@@ -57,7 +57,7 @@ The trained models, saved as pickle files and the embeddings of each model saved
 
 ## Demo App Code
 
-The demo App can be found here: https://drive.google.com/drive/folders/1l4UgzQp1DPBp2SOFUuCEjbdU_ptnJl8V?usp=sharing
+The complete demo app source code and required csv files and images can be found here: https://drive.google.com/drive/folders/1l4UgzQp1DPBp2SOFUuCEjbdU_ptnJl8V?usp=sharing
 
 ## Demo App
 
