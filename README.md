@@ -51,6 +51,12 @@ If you want you can also follow the steps given on Kaggle: https://www.kaggle.co
 
 The trained models, saved as pickle files and the embeddings of each model saved as csv files are stored here: https://drive.google.com/drive/folders/1snw_jtIqYuJW69GW34GSpqM7YnU7cfON?usp=sharing
 
+## Demo App
+
+The app makes use of a dataset from a Kaggle competition where data about customer purchase history and the various articles/products listed on their website were provided.
+
+Making use of different recommendation techniques, we can now find similar items to a randomly selected item as well as get recommendations for a randomly selected customer based on their purchase history.
+
 ## Demo App Code
 
 The repository of Demo App Source Code and required files is here: https://github.com/Gopal1252/Product_Recommendations_Demo
