@@ -47,17 +47,13 @@ To replicate the my notebook and to understand the role of first few lines of ea
 You are good to go now! <br />
 If you want you can also follow the steps given on Kaggle: https://www.kaggle.com/discussions/general/74235
 
-## Replicating The Demo App
-
-To replicate the demo app, just ensure you have the libraries mentioned and you are good to go.
-
 ## Other Resources
 
 The trained models, saved as pickle files and the embeddings of each model saved as csv files are stored here: https://drive.google.com/drive/folders/1snw_jtIqYuJW69GW34GSpqM7YnU7cfON?usp=sharing
 
 ## Demo App Code
 
-The complete demo app source code and required csv files and images can be found here: https://drive.google.com/drive/folders/1l4UgzQp1DPBp2SOFUuCEjbdU_ptnJl8V?usp=sharing
+The repository of Demo App Source Code and required files is here: https://github.com/Gopal1252/Product_Recommendations_Demo
 
 ## Demo App
 
